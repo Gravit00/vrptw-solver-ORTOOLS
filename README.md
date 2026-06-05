@@ -20,8 +20,8 @@ Solved using Google OR-Tools:
 pip install ortools matplotlib numpy
 
 ## Usage
-Run `VRPTW-float-comparison-with-nn.py` directly: python VRPTW-float-comparison-with-nn.py
-Make sure `c101.txt` is in the same directory.
+-Run `VRPTW-float-comparison-with-nn.py` directly: python VRPTW-float-comparison-with-nn.py
+-Make sure `c101.txt` is in the same directory.
 
 ## Results
 
